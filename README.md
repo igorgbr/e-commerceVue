@@ -7,5 +7,5 @@ Página criada no curso Vue 3 Mastery - Intro to Vue 3
 
 -------------------
 Futuramente
-- [] Criar Botão para limpar o form
-- [] Criar Componente carrinho de compra
+- [ ] Criar Botão para limpar o form
+- [ ] Criar Componente carrinho de compra
