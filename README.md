@@ -6,4 +6,6 @@ Página criada no curso Vue 3 Mastery - Intro to Vue 3
 
 
 -------------------
-Futuramente, salvar os dados em um Report
+Futuramente
+- [] Criar Botão para limpar o form
+- [] Criar Componente carrinho de compra
